@@ -4,11 +4,11 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Online via Zoom"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: ""      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "https://okacrl.wufoo.com/forms/library-carpentry-r-sessions-1-and-2/"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: ""      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
-latitude: ""        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: ""       # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "0"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "0"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "June 17-18, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30am - Noon"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-06-17      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
